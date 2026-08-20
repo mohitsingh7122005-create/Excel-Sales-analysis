@@ -1,1 +1,3 @@
 # Excel-Sales-analysis
+
+The Sales Analysis project was developed using Microsoft Excel to analyze and visualize sales data and identify key business trends. The project involved cleaning and organizing raw data, using Excel formulas, Pivot Tables, and charts to analyze total sales, average sales, product performance, outlet performance, and sales by outlet size and type. An interactive dashboard was created using KPIs, charts, slicers, and filters to make the analysis easy to understand. The project helped identify top-performing products and outlets and provided meaningful insights for data-driven business decisions.
